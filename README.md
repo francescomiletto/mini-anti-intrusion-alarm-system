@@ -40,4 +40,4 @@ Un sistema di allarme anti-intrusione in miniatura avanzato, che unisce il rilev
 
 ## 🔌 Media & Resources / Materiale e Documentazione
 - **Schema Elettrico / Schematic:** <img width="1162" height="588" alt="Schema Elettrico" src="https://github.com/user-attachments/assets/f50f1bea-a5bf-4246-9ff7-2d946df086ff" />
-- **Video Dimostrativo / Demo Video:** [Link al video su YouTube]
+- **Video Dimostrativo / Demo Video:** [Youtube Link](https://youtu.be/AuxsWHAKap0)
